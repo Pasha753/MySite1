@@ -1,0 +1,21 @@
+
+section{
+  background-color:bisque;
+  padding:15px;
+  margin: 20px auto;
+  max-width: 1200px;
+  border-radius: 15px;
+  display: flex;
+  justify-content:space-around;
+}
+div{
+  /* border:1px solid black; */
+ text-align: center;
+}
+.gray{
+  background-color:beige;
+}
+
+.gray h2{
+  font-size: 70px;
+}
